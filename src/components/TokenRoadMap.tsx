@@ -7,6 +7,8 @@ const TokenRoadMap : FC = () => {
         <Flex w="full" minH="120vh" mt={40} 
         backgroundImage="/images/ko_roadmap.png" 
         backgroundSize="cover"
+        backgroundPosition="center"
+        backgroundRepeat="no-repeat"
         >
         </Flex> 
     )
