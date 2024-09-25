@@ -55,7 +55,7 @@ const Header : FC<HeaderProps> = ({tokenExRef, tokenUtilRef, tokenRoadmapRef, to
                 </Text>
             </Flex>
             <Flex w="90%" h="20vh" color="white" mt={10}>
-                <Text w="100%" textAlign="center" fontSize="30px" fontWeight="bold">
+                <Text w="100%" textAlign="center" fontSize={["20px", "24px", "28px"]} fontWeight="bold">
                     LightningWolf (LNWF) is a meme coin that symbolizes speed and a strong sense of community,<br/>
                     combining blockchain technology and creativity to unlock new possibilities in digital assets
                 </Text>
